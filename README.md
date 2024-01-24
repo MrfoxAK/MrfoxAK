@@ -8,11 +8,11 @@
 
 - 🔭 I’m currently working on [Emotion Detection](https://github.com/MrfoxAK/Emotion-detection)
 
-- 🌱 I’m currently learning **Machine Learning**
+- 🌱 I’m currently learning **Machine Learning, Deep Learning**
 
 - 👨‍💻 All of my projects are available at [https://github.com/MrfoxAK?tab=repositories](https://github.com/MrfoxAK?tab=repositories)
 
-- 💬 Ask me about **Python , c**
+- 💬 Ask me about **Python , c, Machine Learning, Deep Learning, IOT**
 
 - 📫 How to reach me **akd270302@gmail.com**
 
