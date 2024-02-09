@@ -12,7 +12,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/MrfoxAK?tab=repositories](https://github.com/MrfoxAK?tab=repositories)
 
-- 💬 Ask me about **Python , c, Machine Learning, Deep Learning, IOT**
+- 💬 Ask me about **Python , C, Machine Learning, Deep Learning, IOT**
 
 - 📫 How to reach me **akd270302@gmail.com**
 
