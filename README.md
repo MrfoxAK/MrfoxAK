@@ -1,4 +1,4 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io)
+[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://mrfoxak.io)
 <h1 align="center">Hi 👋, I'm Akash Das</h1>
 <h3 align="center">A passionate Machine Learning developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://www.careerguide.com/career/wp-content/uploads/2020/02/EU-code-week_GIF.gif">
