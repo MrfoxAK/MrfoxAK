@@ -1,4 +1,4 @@
-[![MasterHead](https://camo.githubusercontent.com/80d2ae081b5bc22cf51e828c50902eb066327a27dea8251fe740967eb5f60c7a/68747470733a2f2f616c65782d77656263646e2e73332e75732d776573742d312e616d617a6f6e6177732e636f6d2f6d656469612f75706c6f6164732f696d672f62616e6e6572732f4131582b4769746875622b42616e6e65722e676966)](https://MrfoxAK.io)
+[![MasterHead]([https://camo.githubusercontent.com/80d2ae081b5bc22cf51e828c50902eb066327a27dea8251fe740967eb5f60c7a/68747470733a2f2f616c65782d77656263646e2e73332e75732d776573742d312e616d617a6f6e6177732e636f6d2f6d656469612f75706c6f6164732f696d672f62616e6e6572732f4131582b4769746875622b42616e6e65722e676966](https://user-images.githubusercontent.com/115187902/230700872-d5f44b85-56c7-4e27-80a4-6e2db901e60c.gif))](https://MrfoxAK.io)
 <h1 align="center">Hi 👋, I'm Akash Das</h1>
 <h3 align="center">A passionate software developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://www.careerguide.com/career/wp-content/uploads/2020/02/EU-code-week_GIF.gif">
