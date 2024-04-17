@@ -1,4 +1,4 @@
-[![MasterHead](https://camo.githubusercontent.com/b76228004161e9dce54e2758df7921f8d0c77582a4c69948714f48b5b894c55b/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f3837352f312a557263323873626e4f52474f57356f796f68513036672e676966)](https://mrfoxak.io/)
+[![MasterHead](https://user-images.githubusercontent.com/97103333/223966150-91dff73d-9dcd-4489-9cf4-67a7824fc536.gif)](https://mrfoxak.io/)
 <h1 align="center">Hi 👋, I'm Akash Das</h1>
 <h3 align="center">A passionate Machine Learning developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://www.careerguide.com/career/wp-content/uploads/2020/02/EU-code-week_GIF.gif">
